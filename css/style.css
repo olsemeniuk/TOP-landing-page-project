@@ -1,3 +1,10 @@
+:root {
+  --color-dark: #1F2937;
+  --color-light: #F9FAF8;
+  --color-secondary: #E5E7EB;
+  --color-accent: #3882F6;
+}
+
 html {
   box-sizing: border-box;
 }
